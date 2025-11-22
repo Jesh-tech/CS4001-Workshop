@@ -13,7 +13,7 @@ class GradeEvaluator {
         System.out.println("\n\tInvalid input!");}
         }while(grade<0 || grade>100);
         
-        String result = (grade >= 40) ? "Pass" : "Fail";// Ternary operator for pass/fail
+        String result = (grade >= 40) ? "Pass" : "Fail";
         System.out.println(result);
 
     }
