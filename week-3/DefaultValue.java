@@ -1,11 +1,5 @@
 package week3;
 
-
-/**
- * Week3 workshop Programming
- *
- * @author (Prijesh Kamat)
- */
 public class DefaultValue
 {
         boolean b;
